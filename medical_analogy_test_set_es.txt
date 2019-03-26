@@ -1,4 +1,4 @@
-: UMLS_causative
+: causative
 psitacosis clamidia osteomielitis organismo
 septicemia microorganismo sarna animal
 polio enterovírico osteomielitis organismo
@@ -377,7 +377,7 @@ micetoma hongos hipersensibilidad droga
 polio enterovírico miasis insectos
 excoriación fricción argiria plateado
 miasis artrópodo leishmaniosis protozoo
-: UMLS_may_treat
+: may_treat
 guaifenesina coqueluche cerivastatina hipercolesterolemia
 bismuto disentería benzocaína otalgia
 prometazina vómitos clofazimina lepra
@@ -10112,7 +10112,7 @@ itraconazol neutropenia alcanfor dolor
 estreptomicina peste enoxaparina angor
 propofol delirio ciprofloxacino neutropenia
 ipratropio bronquitis ciclosporina soriasis
-: UMLS_procedure_site
+: procedure_site
 toracotomía pecho onicectomía piel
 laringotraqueoscopia laringe dermoabrasión piel
 magnetoencefalografía cerebro esofagogastroduodenoscopia esófago
@@ -10854,7 +10854,7 @@ esplenectomía bazo artroplastia articulaciones
 mamectomía mama ecocardiografía corazón
 colpoplastia vagina tiroidectomía glándula
 paratiroidectomía glándula aortografía aorta
-: UMLS_ingredient
+: ingredient
 graduado plástico colodión cima
 saliva oral lubricante cima
 papaína carbonildiamida niacinamida niacina
@@ -11260,7 +11260,7 @@ saliva treinta insulina humano
 pierna chico cojín mediano
 yodopovidona yodo forro adhesivo
 niacinamida niacina apósito espuma
-: UMLS_finding_site
+: finding_site
 urticaria piel endometritis endometrio
 vértigo laberinto piometra útero
 epilepsia cerebro coriorretinitis retina
@@ -18943,7 +18943,7 @@ reflujo abdomen pústula piel
 fototoxicidad piel acrodermatitis piel
 xerodermia piel neumotórax pleura
 nistagmo ojo hemoptisis expectoración
-: UMLS_associated
+: associated
 urticaria piel endometritis endometrio
 vértigo laberinto piometra útero
 epilepsia cerebro coriorretinitis retina
